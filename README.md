@@ -1,2 +1,2 @@
-# ProjectEuler_solutions
+# ProjectEulerSolutions
 algorithms , https://projecteuler.net/archives
